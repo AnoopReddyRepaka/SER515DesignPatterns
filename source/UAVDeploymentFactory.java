@@ -1,6 +1,6 @@
-public class UAVDeploymentFactory extends UAV Deployment {
+public class UAVDeploymentFactory extends UAV_Deployment {
 
-	private UAV Deployment uAV Deployment;
+	//private UAV_Deployment;
 
 	public void DeployNavFleet() {
 
