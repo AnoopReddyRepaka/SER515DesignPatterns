@@ -1,6 +1,6 @@
-import java.UAV;
+package java;
 
-public class DroneInspection {
+public class DroneController {
 
 	private int inspectionID;
 
@@ -12,7 +12,7 @@ public class DroneInspection {
 
 	private UAV uAV;
 
-	public DroneInspection(int inspectionID, int location, int inspector, int inspectionTimeStamp) {
+	public DroneController(int inspectionID, int location, int inspector, int inspectionTimeStamp) {
 
 	}
 

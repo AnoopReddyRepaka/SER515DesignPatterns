@@ -1,6 +1,8 @@
+package java;
+
 public class UAVDeploymentFactory {
 
-	private UAV Deployment uAV Deployment;
+	private UAVDeployment uAVDeployment;
 
 	public void DeployNavFleet() {
 

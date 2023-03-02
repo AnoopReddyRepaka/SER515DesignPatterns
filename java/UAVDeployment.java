@@ -1,12 +1,16 @@
-import java.UAVBuilder;
+package java;
 
-public class UAV Deployment {
+public class UAVDeployment {
 
 	private int Drone[];
 
 	private UAVDeploymentFactory uAVDeploymentFactory;
 
 	private UAVBuilder uAVBuilder;
+
+	private FireFightingFacade fireFightingFacade;
+
+	private Pack pack;
 
 	public void sendNowUAV() {
 
